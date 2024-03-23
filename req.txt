@@ -1,0 +1,43 @@
+
+f-stop
+ntopng
+libafflib
+flasm
+ipython
+bkhive <samdump
+maltegoce < maltego
+
+
+afterglow
+binplist
+bitpim 
+bitpim-lib
+dconf-tools
+dumpig
+libbde , -tools
+libesedb , -tools
+libevt , -tools
+libewf , -python , -tools
+libfvde , -tools
+liblightgrep
+libmsiecf
+libolecf
+libregf  , -python , -tools
+libvshadow , -python , -tools
+phonon
+pyew
+python , -flowgrep , -nids , ntdsxtract , -pefile, -plase , -qt4 , -volatility 
+pytsk3
+
+bcrypt
+knocker
+radare-gtk
+python-yara
+mantaray
+python-fuse
+system-config-samba
+libpff , -tools , -python
+pyew
+radare 
+ubuntu-tweak
+

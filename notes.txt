@@ -1,0 +1,3 @@
+find test.sh -printf '%Ax ; %AT ; %Tx ; %TT ; %Cx ; %CT , %m ; %U;%u; %G;%g ; %s %p'
+\nEvery log in /var/log
+find /var/log -type f -regextype  posix-extended -regex '/var/log/[a-zA-Z\.]+(/[a-zA-Z\.]+)*' -exec cat '{}' ';'
